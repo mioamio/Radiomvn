@@ -1,6 +1,6 @@
-package ru.netology.domain;
+package ru.netology.radio;
 
-public class Radio {
+public class radio {
 
     private int currentVolume;
     private int currentStation;
